@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <title>jQueryのサンプル</title>
+  </head>
+<body>
+  <div>
+    // ここにjQueryを記述する
+  </div>
+  <script src="jquery.min.js"></script>  
+</body>
+</html>
+
+/*演習の誤り
+１　jQueryの記載場所が違う(scriptタグに書く）
+２　jQueryのライブラリの読み込み方が違う（最初に読み込む）
